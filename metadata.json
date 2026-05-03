@@ -1,0 +1,6 @@
+{
+  "name": "TasteBuddy",
+  "description": "An AI-powered sensory food discovery app that matches dishes to your palate 'DNA' through a swipeable dish-first feed and social eating groups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Matchmaking", "Swipeable Video Feed", "Social Groups"]
+}
